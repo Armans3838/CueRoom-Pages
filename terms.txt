@@ -12,6 +12,8 @@ The intended United States price is $15.00 per month. The localized price shown 
 
 Manage or cancel in Settings, your Apple Account, Subscriptions, or through Manage subscription in Cue Room. Cancellation takes effect at the end of the paid period unless Apple specifies otherwise. Deleting the app does not cancel billing. Restore purchases using the same Apple Account. Refund requests are handled by Apple at Report a Problem (https://reportaproblem.apple.com), subject to applicable rights. Your saved scripts are not deleted when your subscription ends; keep exported copies of work you need independently of the app.
 
+Manage saved data remains available from the subscription screen without paid access. You can export or delete saved scripts, remove your OpenAI key, and clear downloaded AI audio there.
+
 Optional AI costs and availability
 
 The Cue Room subscription does not include OpenAI credits. Connecting your own OpenAI API key and enabling requests authorizes usage against that account. OpenAI's pricing, usage limits, terms, and availability apply separately. Installed Apple voices do not require an OpenAI key or credits. Apple Intelligence formatting requires a supported device and an available on-device model.

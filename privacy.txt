@@ -32,6 +32,8 @@ Saved scripts and recordings remain until you delete them. Import drafts survive
 
 Generated OpenAI cues are cached locally, up to 100 MB, to reduce repeat requests. Clear Downloaded AI Audio in Apple & OpenAI settings removes this cache. Deleting a script does not clear the shared generated-audio cache. Use Remove Saved Key to remove the API key. These actions do not remove exported copies, device backups, original imported files, or previously transmitted provider data. Manage those copies with their respective recipient or service. Deleting the app does not cancel a subscription; remove the saved key in the app first if you want it removed from Keychain.
 
+An active subscription is not required to manage saved data. From the subscription screen, choose Manage saved data to export or delete saved scripts, remove your API key, or clear downloaded AI audio.
+
 Purchases and support
 
 Apple handles subscriptions, payment details, billing, and refunds. Cue Room checks access through StoreKit; it does not send your purchase records to a developer server. See Apple's privacy policy (https://www.apple.com/legal/privacy/). OpenAI charges are separate and are handled through your connected API account.
