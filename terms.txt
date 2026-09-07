@@ -18,7 +18,7 @@ Optional AI costs and availability
 
 The Cue Room subscription does not include OpenAI credits. Connecting your own OpenAI API key and enabling requests authorizes usage against that account. OpenAI's pricing, usage limits, terms, and availability apply separately. Installed Apple voices do not require an OpenAI key or credits. Apple Intelligence script analysis requires a supported device and an available on-device model.
 
-OCR, transcription, and AI script analysis can misread words, misidentify speakers or roles, or exclude passages. Review the cast, dialogue, directions, and uncertain passages against your source script before rehearsing. OpenAI script analysis uses separate API credits when you tap Analyze; analysis is not included in your subscription. Generated voices are synthetic. Their delivery may vary, and Cue Room does not promise a particular voice, performance, transcription accuracy, or third-party model indefinitely.
+OCR, transcription, and AI script analysis can misread words, misidentify speakers or roles, or exclude passages. Review the cast, dialogue, directions, and uncertain passages against your source script before rehearsing. OpenAI script analysis uses separate API credits when you tap Analyze; analysis is not included in your subscription. OpenAI rehearsal may prepare an upcoming reader cue before playback. Optional paraphrase checks also use API credits and can miss or misjudge a cue; pause and Next remain available. Generated voices are synthetic. Their delivery may vary, and Cue Room does not promise a particular voice, performance, transcription accuracy, or third-party model indefinitely.
 
 Your scripts and recordings
 
