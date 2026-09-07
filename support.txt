@@ -1,0 +1,23 @@
+Cue Room Support
+
+Contact curtaincallsupport@icloud.com for help with Cue Room. Include your app version, iPhone or iPad model, iOS version, and a short description of what happened. Do not send API keys, passwords, or scripts you do not have permission to share.
+
+Importing your script
+
+Add a script by scanning pages with the camera, selecting photos, importing PDF, Word DOCX, or text files, or pasting dialogue. Review the recognized words and speaker names before saving. If a scan is unclear, use a brighter, sharper image or edit the text directly.
+
+Rehearsing without OpenAI
+
+Installed Apple voices work without an OpenAI key. Choose your role, then rehearse the scene. Use Next if you prefer to advance manually. Camera, microphone, and Apple Intelligence features depend on device support and permissions.
+
+OpenAI voices and transcription
+
+OpenAI is optional. Connect your own API key and enable requests in Apple & OpenAI settings. OpenAI usage is billed separately and is not included in the Cue Room subscription. Never send your key to support. You can turn off requests, remove your key, or clear downloaded AI audio in those settings.
+
+Subscription and billing
+
+Use Restore purchases with the Apple Account that subscribed. Manage or cancel your subscription in Apple subscription settings (https://apps.apple.com/account/subscriptions). Deleting the app does not cancel billing. For a refund request, visit Apple Report a Problem (https://reportaproblem.apple.com).
+
+Your data
+
+Export scripts from the script menu to keep an independent copy. Read the Privacy Policy (privacy.html) and Terms of Use (terms.html) for details about local storage, sharing, optional AI processing, and billing.

@@ -1,29 +1,34 @@
 <!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Support | Cue Room</title>
-  <meta name="description" content="Cue Room support information.">
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <main class="page document">
-    <nav><a href="index.html">Cue Room</a></nav>
-    <h1>Support</h1>
-    <p>If you need help with Cue Room, email <a href="mailto:curtaincallsupport@icloud.com">curtaincallsupport@icloud.com</a>.</p>
-
-    <h2>For Beta Testers</h2>
-    <p>Please include your iPhone model, iOS version, what you were trying to do, what happened, and whether the issue repeats. Screenshots or screen recordings are helpful when available.</p>
-
-    <h2>Critical Flows To Report</h2>
-    <ul>
-      <li>Recording actor lines</li>
-      <li>Playing recorded lines during rehearsal</li>
-      <li>Importing or exporting <code>.cueroomshow</code> files</li>
-      <li>Nearby Workroom sync between two iPhones</li>
-      <li>Microphone, speech recognition, local network, or Bluetooth permission issues</li>
-    </ul>
-  </main>
-</body>
-</html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Cue Room Support</title><style>
+:root { color-scheme: light dark; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+* { box-sizing: border-box; }
+body { margin: 0; color: #202027; background: #faf9f6; line-height: 1.65; }
+header, main, footer { width: min(100% - 2.5rem, 48rem); margin-inline: auto; }
+header { padding-block: 1.8rem 1rem; border-bottom: 1px solid #d4d2cb; }
+nav { display: flex; flex-wrap: wrap; gap: .4rem 1.3rem; }
+nav a { display: inline-flex; align-items: center; min-height: 44px; }
+main { padding-block: 2rem 3rem; }
+h1 { font-size: clamp(2rem, 6vw, 2.6rem); line-height: 1.15; letter-spacing: -.025em; margin: 0 0 1.4rem; }
+h2 { font-size: 1.35rem; line-height: 1.3; margin-top: 2rem; margin-bottom: .7rem; }
+p { margin: 0 0 1rem; }
+a { color: #4333a5; text-underline-offset: .2em; overflow-wrap: anywhere; }
+a:focus-visible { outline: 3px solid currentColor; outline-offset: 4px; }
+footer { padding-block: 1rem 2rem; border-top: 1px solid #d4d2cb; font-size: .9rem; }
+.skip { position: absolute; left: -10000px; }
+.skip:focus { left: 1rem; top: .4rem; background: white; padding: .5rem; }
+@media (prefers-color-scheme: dark) { body { color: #eeecf4; background: #19191f; } a { color: #b9b0ff; } header, footer { border-color: #494751; } }
+@media print { header, footer, .skip { display: none; } body { color: black; background: white; } main { width: auto; padding: 0; } a { color: black; } h1, h2 { break-after: avoid; } p { orphans: 3; widows: 3; } }
+</style></head>
+<body><a class="skip" href="#main">Skip to content</a><header><nav aria-label="Main"><a href="index.html">Cue Room</a><a href="support.html">Support</a><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a></nav></header>
+<main id="main"><h1>Cue Room Support</h1>
+<p>Contact curtaincallsupport@icloud.com for help with Cue Room. Include your app version, iPhone or iPad model, iOS version, and a short description of what happened. Do not send API keys, passwords, or scripts you do not have permission to share.</p>
+<h2>Importing your script</h2>
+<p>Add a script by scanning pages with the camera, selecting photos, importing PDF, Word DOCX, or text files, or pasting dialogue. Review the recognized words and speaker names before saving. If a scan is unclear, use a brighter, sharper image or edit the text directly.</p>
+<h2>Rehearsing without OpenAI</h2>
+<p>Installed Apple voices work without an OpenAI key. Choose your role, then rehearse the scene. Use Next if you prefer to advance manually. Camera, microphone, and Apple Intelligence features depend on device support and permissions.</p>
+<h2>OpenAI voices and transcription</h2>
+<p>OpenAI is optional. Connect your own API key and enable requests in Apple &amp; OpenAI settings. OpenAI usage is billed separately and is not included in the Cue Room subscription. Never send your key to support. You can turn off requests, remove your key, or clear downloaded AI audio in those settings.</p>
+<h2>Subscription and billing</h2>
+<p>Use Restore purchases with the Apple Account that subscribed. Manage or cancel your subscription in <a href="https://apps.apple.com/account/subscriptions">Apple subscription settings</a>. Deleting the app does not cancel billing. For a refund request, visit <a href="https://reportaproblem.apple.com">Apple Report a Problem</a>.</p>
+<h2>Your data</h2>
+<p>Export scripts from the script menu to keep an independent copy. Read the <a href="privacy.html">Privacy Policy</a> and <a href="terms.html">Terms of Use</a> for details about local storage, sharing, optional AI processing, and billing.</p></main><footer>Cue Room is provided by Arman Siddiqui. <a href="mailto:curtaincallsupport@icloud.com">Contact support</a></footer></body></html>

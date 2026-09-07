@@ -1,0 +1,31 @@
+Cue Room Terms of Use
+
+Effective September 6, 2026
+
+Cue Room is provided by Arman Siddiqui. These terms explain the rehearsal service and subscription. The app is licensed under Apple's Standard End User License Agreement (https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). These service terms supplement that license and do not replace it or limit rights that cannot legally be excluded.
+
+Your subscription
+
+Cue Room Plus is a monthly auto-renewable subscription providing script import and organization, rehearsal with installed Apple voices, cast recordings, progress, and optional AI connections. A sample rehearsal is available before purchase. Device capabilities and permissions determine which camera, speech, and Apple Intelligence features are available.
+
+The intended United States price is $15.00 per month. The localized price shown by the App Store purchase sheet, including applicable taxes as presented by Apple, is the price you authorize. Payment is charged to your Apple Account on confirmation. The subscription renews automatically unless canceled at least 24 hours before the current period ends; renewal charges may occur within the 24 hours before renewal. No free trial is included unless Apple explicitly presents one in your purchase offer.
+
+Manage or cancel in Settings, your Apple Account, Subscriptions, or through Manage subscription in Cue Room. Cancellation takes effect at the end of the paid period unless Apple specifies otherwise. Deleting the app does not cancel billing. Restore purchases using the same Apple Account. Refund requests are handled by Apple at Report a Problem (https://reportaproblem.apple.com), subject to applicable rights. Your saved scripts are not deleted when your subscription ends; keep exported copies of work you need independently of the app.
+
+Optional AI costs and availability
+
+The Cue Room subscription does not include OpenAI credits. Connecting your own OpenAI API key and enabling requests authorizes usage against that account. OpenAI's pricing, usage limits, terms, and availability apply separately. Installed Apple voices do not require an OpenAI key or credits. Apple Intelligence formatting requires a supported device and an available on-device model.
+
+OCR, transcription, and AI formatting can misread, omit, or change words. Review imported text and suggestions against your source script. Generated voices are synthetic. Their delivery may vary, and Cue Room does not promise a particular voice, performance, transcription accuracy, or third-party model indefinitely.
+
+Your scripts and recordings
+
+You retain your rights in content you import or create. Importing a script does not grant rights to publish or distribute it. Use material and recordings you have permission to process, rehearse, record, and share. Obtain the relevant performers' permission before recording or sharing them. Do not use the app to violate another person's rights, impersonate them deceptively, or break applicable law. Follow the terms of any AI provider you connect.
+
+Cue Room stores your work locally. Export copies through the script menu if you need a backup or want to move devices. You are responsible for the recipients you choose and for protecting exported copies and API credentials. Permission to process your content is limited to operating the features you choose. The developer does not acquire ownership of your scripts or performances.
+
+Support and changes
+
+Contact curtaincallsupport@icloud.com for support, rights complaints, or questions about these terms. Include the app version and a description of the issue; do not include credentials. We may update the app and these terms as functionality changes. The current terms and effective date will remain available at Cue Room Terms (https://armans3838.github.io/CueRoom-Pages/terms.html). App Store billing changes follow Apple's required notices and consent process.
+
+Apple's Standard EULA governs the license, warranties, and liability, subject to applicable law. These terms do not impose a separate arbitration agreement or waive statutory consumer rights. Privacy handling is described in the Cue Room Privacy Policy (https://armans3838.github.io/CueRoom-Pages/privacy.html).

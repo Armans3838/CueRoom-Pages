@@ -1,43 +1,44 @@
 <!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Privacy Policy | Cue Room</title>
-  <meta name="description" content="Cue Room privacy policy.">
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <main class="page document">
-    <nav><a href="index.html">Cue Room</a></nav>
-    <h1>Privacy Policy</h1>
-    <p class="muted">Effective date: May 12, 2026</p>
-
-    <p>Cue Room is a local-first rehearsal app for casts working on theater productions.</p>
-
-    <h2>Data Collection</h2>
-    <p>Cue Room does not collect personal data in the current MVP. The app does not operate a Cue Room backend, account system, analytics service, advertising network, or tracking system.</p>
-
-    <h2>Scripts And Recordings</h2>
-    <p>Scripts, character lines, show metadata, and actor recordings are stored locally on the user's device.</p>
-    <p>Users may choose to share rehearsal data by exporting a <code>.cueroomshow</code> package through iOS sharing tools such as Files, AirDrop, Messages, or Mail, or by joining a nearby workroom to sync recordings with nearby cast members through Apple's local peer connectivity.</p>
-    <p>Cue Room does not receive those files or recordings.</p>
-
-    <h2>Microphone And Speech Recognition</h2>
-    <p>Cue Room asks for microphone access so users can record scripts and actor line readings.</p>
-    <p>Cue Room asks for speech recognition access so users can dictate script text into editable dialogue lines.</p>
-
-    <h2>Local Network And Bluetooth</h2>
-    <p>Cue Room asks for local network and Bluetooth-related permissions to find nearby cast workrooms and sync rehearsal recordings between nearby devices.</p>
-
-    <h2>Purchases</h2>
-    <p>Cue Room Plus subscriptions are handled by Apple through the App Store. Apple may process purchase, billing, and subscription information under Apple's own terms and privacy policy.</p>
-
-    <h2>iCloud</h2>
-    <p>The current MVP does not enable iCloud archive or remote sync. Future Pro features may use the user's own iCloud account for storage and sync.</p>
-
-    <h2>Contact</h2>
-    <p>For support or privacy questions, contact <a href="mailto:curtaincallsupport@icloud.com">curtaincallsupport@icloud.com</a>.</p>
-  </main>
-</body>
-</html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Cue Room Privacy Policy</title><style>
+:root { color-scheme: light dark; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+* { box-sizing: border-box; }
+body { margin: 0; color: #202027; background: #faf9f6; line-height: 1.65; }
+header, main, footer { width: min(100% - 2.5rem, 48rem); margin-inline: auto; }
+header { padding-block: 1.8rem 1rem; border-bottom: 1px solid #d4d2cb; }
+nav { display: flex; flex-wrap: wrap; gap: .4rem 1.3rem; }
+nav a { display: inline-flex; align-items: center; min-height: 44px; }
+main { padding-block: 2rem 3rem; }
+h1 { font-size: clamp(2rem, 6vw, 2.6rem); line-height: 1.15; letter-spacing: -.025em; margin: 0 0 1.4rem; }
+h2 { font-size: 1.35rem; line-height: 1.3; margin-top: 2rem; margin-bottom: .7rem; }
+p { margin: 0 0 1rem; }
+a { color: #4333a5; text-underline-offset: .2em; overflow-wrap: anywhere; }
+a:focus-visible { outline: 3px solid currentColor; outline-offset: 4px; }
+footer { padding-block: 1rem 2rem; border-top: 1px solid #d4d2cb; font-size: .9rem; }
+.skip { position: absolute; left: -10000px; }
+.skip:focus { left: 1rem; top: .4rem; background: white; padding: .5rem; }
+@media (prefers-color-scheme: dark) { body { color: #eeecf4; background: #19191f; } a { color: #b9b0ff; } header, footer { border-color: #494751; } }
+@media print { header, footer, .skip { display: none; } body { color: black; background: white; } main { width: auto; padding: 0; } a { color: black; } h1, h2 { break-after: avoid; } p { orphans: 3; widows: 3; } }
+</style></head>
+<body><a class="skip" href="#main">Skip to content</a><header><nav aria-label="Main"><a href="index.html">Cue Room</a><a href="support.html">Support</a><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a></nav></header>
+<main id="main"><h1>Cue Room Privacy Policy</h1>
+<p>Effective September 6, 2026</p>
+<p>Cue Room is a rehearsal app provided by Arman Siddiqui. This policy explains how the app handles your scripts, recordings, photos, purchases, and optional AI requests. Contact curtaincallsupport@icloud.com for privacy questions.</p>
+<h2>Data on your device</h2>
+<p>Your library, dialogue, cast recordings, import drafts, unfinished line edits, selected roles, rehearsal options, and progress are stored on your device. Cue Room has no developer-operated account service, cloud library, advertising, analytics SDK, or tracking system. Your device backup settings may include app data. Cue Room does not provide an independent backup service.</p>
+<p>Camera scans, selected photos, PDF files, Word DOCX files, and text files are processed on your device. Apple&#x27;s text recognition reads images and scanned PDF pages locally. Source images are not sent to OpenAI by the importer. Extracted text stays in an editable draft until you save or discard it. Original files and photos remain wherever you selected them; Cue Room does not delete those originals.</p>
+<p>Apple cue voices and supported speech recognition operate on your device. Speech recognition requires local recognition support; there is no automatic cloud fallback. Optional Apple Intelligence script formatting uses the available on-device model. You review its suggestions before using them.</p>
+<h2>Optional OpenAI processing</h2>
+<p>OpenAI requests are off by default. Saving an API key does not send a script or test the key. You must enable OpenAI requests before using its voices or transcription. When enabled, uncached OpenAI voices send the dialogue being spoken, voice choice, and delivery instructions directly to OpenAI. Choosing OpenAI transcription sends the recorded take. Your API key authenticates these requests to your OpenAI account. Internet connection information, including your IP address, is also available to the service.</p>
+<p>OpenAI processes these requests under its terms and your account settings. Its API data controls currently describe no training by default unless you opt in. Speech generation has default abuse-monitoring retention of up to 30 days; the transcription endpoint lists no abuse-monitoring or application-state retention. Account settings, legal obligations, and safety exceptions can affect handling. See <a href="https://developers.openai.com/api/docs/guides/your-data">OpenAI data controls</a> and <a href="https://openai.com/policies/privacy-policy/">OpenAI privacy policy</a>. Cue Room cannot change or delete records held by your provider.</p>
+<p>The key is stored in device-only Keychain storage, not in exported scripts or nearby transfers. Removing the key turns off new cloud requests. Previously downloaded generated audio may remain in the local cache. Voices are synthetic and do not clone cast members.</p>
+<h2>Permissions and sharing</h2>
+<p>Microphone access lets you record dialogue and speech. Camera access lets you scan printed pages. The system photo picker grants access only to the items you choose. Local network and Bluetooth permissions support nearby cast sharing. You can manage permissions in iOS Settings; manual text editing and installed Apple voices remain available without camera or microphone access.</p>
+<p>Exporting a show package or joining a nearby workroom shares script data and included recordings with the recipients you choose. Recipients and services you use to transfer or store a package can keep their own copies. Check that you have permission from script owners and recorded performers before sharing. The developer does not receive those packages through the app.</p>
+<h2>Retention and deletion</h2>
+<p>Saved scripts and recordings remain until you delete them. Import drafts survive closing and reopening; use Discard draft to remove them. Saved or discarded line edits clear their draft. Deleting a script removes its associated personal progress and drafts. Temporary recording takes are removed when discarded or their capture screen closes; successful transcription removes its temporary take.</p>
+<p>Generated OpenAI cues are cached locally, up to 100 MB, to reduce repeat requests. Clear Downloaded AI Audio in Apple &amp; OpenAI settings removes this cache. Deleting a script does not clear the shared generated-audio cache. Use Remove Saved Key to remove the API key. These actions do not remove exported copies, device backups, original imported files, or previously transmitted provider data. Manage those copies with their respective recipient or service. Deleting the app does not cancel a subscription; remove the saved key in the app first if you want it removed from Keychain.</p>
+<h2>Purchases and support</h2>
+<p>Apple handles subscriptions, payment details, billing, and refunds. Cue Room checks access through StoreKit; it does not send your purchase records to a developer server. See <a href="https://www.apple.com/legal/privacy/">Apple&#x27;s privacy policy</a>. OpenAI charges are separate and are handled through your connected API account.</p>
+<p>If you email support, we receive your email address and the message or attachments you choose to send. We use these to respond and resolve the issue, and retain correspondence as needed for support and applicable legal obligations. Do not send API keys, passwords, or scripts you lack permission to share. You may request access, correction, or deletion of support correspondence at curtaincallsupport@icloud.com; applicable legal rights are unaffected.</p>
+<h2>Policy changes</h2>
+<p>Updates will be published with a revised effective date at <a href="https://armans3838.github.io/CueRoom-Pages/privacy.html">Cue Room Privacy</a>. Material changes to optional data sharing will be explained before the changed feature is used.</p></main><footer>Cue Room is provided by Arman Siddiqui. <a href="mailto:curtaincallsupport@icloud.com">Contact support</a></footer></body></html>

@@ -1,0 +1,43 @@
+Cue Room Privacy Policy
+
+Effective September 6, 2026
+
+Cue Room is a rehearsal app provided by Arman Siddiqui. This policy explains how the app handles your scripts, recordings, photos, purchases, and optional AI requests. Contact curtaincallsupport@icloud.com for privacy questions.
+
+Data on your device
+
+Your library, dialogue, cast recordings, import drafts, unfinished line edits, selected roles, rehearsal options, and progress are stored on your device. Cue Room has no developer-operated account service, cloud library, advertising, analytics SDK, or tracking system. Your device backup settings may include app data. Cue Room does not provide an independent backup service.
+
+Camera scans, selected photos, PDF files, Word DOCX files, and text files are processed on your device. Apple's text recognition reads images and scanned PDF pages locally. Source images are not sent to OpenAI by the importer. Extracted text stays in an editable draft until you save or discard it. Original files and photos remain wherever you selected them; Cue Room does not delete those originals.
+
+Apple cue voices and supported speech recognition operate on your device. Speech recognition requires local recognition support; there is no automatic cloud fallback. Optional Apple Intelligence script formatting uses the available on-device model. You review its suggestions before using them.
+
+Optional OpenAI processing
+
+OpenAI requests are off by default. Saving an API key does not send a script or test the key. You must enable OpenAI requests before using its voices or transcription. When enabled, uncached OpenAI voices send the dialogue being spoken, voice choice, and delivery instructions directly to OpenAI. Choosing OpenAI transcription sends the recorded take. Your API key authenticates these requests to your OpenAI account. Internet connection information, including your IP address, is also available to the service.
+
+OpenAI processes these requests under its terms and your account settings. Its API data controls currently describe no training by default unless you opt in. Speech generation has default abuse-monitoring retention of up to 30 days; the transcription endpoint lists no abuse-monitoring or application-state retention. Account settings, legal obligations, and safety exceptions can affect handling. See OpenAI data controls (https://developers.openai.com/api/docs/guides/your-data) and OpenAI privacy policy (https://openai.com/policies/privacy-policy/). Cue Room cannot change or delete records held by your provider.
+
+The key is stored in device-only Keychain storage, not in exported scripts or nearby transfers. Removing the key turns off new cloud requests. Previously downloaded generated audio may remain in the local cache. Voices are synthetic and do not clone cast members.
+
+Permissions and sharing
+
+Microphone access lets you record dialogue and speech. Camera access lets you scan printed pages. The system photo picker grants access only to the items you choose. Local network and Bluetooth permissions support nearby cast sharing. You can manage permissions in iOS Settings; manual text editing and installed Apple voices remain available without camera or microphone access.
+
+Exporting a show package or joining a nearby workroom shares script data and included recordings with the recipients you choose. Recipients and services you use to transfer or store a package can keep their own copies. Check that you have permission from script owners and recorded performers before sharing. The developer does not receive those packages through the app.
+
+Retention and deletion
+
+Saved scripts and recordings remain until you delete them. Import drafts survive closing and reopening; use Discard draft to remove them. Saved or discarded line edits clear their draft. Deleting a script removes its associated personal progress and drafts. Temporary recording takes are removed when discarded or their capture screen closes; successful transcription removes its temporary take.
+
+Generated OpenAI cues are cached locally, up to 100 MB, to reduce repeat requests. Clear Downloaded AI Audio in Apple & OpenAI settings removes this cache. Deleting a script does not clear the shared generated-audio cache. Use Remove Saved Key to remove the API key. These actions do not remove exported copies, device backups, original imported files, or previously transmitted provider data. Manage those copies with their respective recipient or service. Deleting the app does not cancel a subscription; remove the saved key in the app first if you want it removed from Keychain.
+
+Purchases and support
+
+Apple handles subscriptions, payment details, billing, and refunds. Cue Room checks access through StoreKit; it does not send your purchase records to a developer server. See Apple's privacy policy (https://www.apple.com/legal/privacy/). OpenAI charges are separate and are handled through your connected API account.
+
+If you email support, we receive your email address and the message or attachments you choose to send. We use these to respond and resolve the issue, and retain correspondence as needed for support and applicable legal obligations. Do not send API keys, passwords, or scripts you lack permission to share. You may request access, correction, or deletion of support correspondence at curtaincallsupport@icloud.com; applicable legal rights are unaffected.
+
+Policy changes
+
+Updates will be published with a revised effective date at Cue Room Privacy (https://armans3838.github.io/CueRoom-Pages/privacy.html). Material changes to optional data sharing will be explained before the changed feature is used.
