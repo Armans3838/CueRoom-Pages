@@ -6,7 +6,7 @@ Cue Room is provided by Arman Siddiqui. These terms explain the rehearsal servic
 
 Your subscription
 
-Cue Room Plus is a monthly auto-renewable subscription providing script import and organization, rehearsal with installed Apple voices, cast recordings, progress, and optional AI connections. A sample rehearsal is available before purchase. Device capabilities and permissions determine which camera, speech, and Apple Intelligence features are available.
+Cue Room Plus is a monthly auto-renewable subscription providing script import and organization, rehearsal with installed Apple voices, cast recordings, progress, and optional AI connections. A sample rehearsal is available before purchase. Device capabilities and permissions determine which camera and speech features are available. Pro document import requires internet and enabled OpenAI requests.
 
 The intended United States price is $15.00 per month. The localized price shown by the App Store purchase sheet, including applicable taxes as presented by Apple, is the price you authorize. Payment is charged to your Apple Account on confirmation. The subscription renews automatically unless canceled at least 24 hours before the current period ends; renewal charges may occur within the 24 hours before renewal. No free trial is included unless Apple explicitly presents one in your purchase offer.
 
@@ -14,11 +14,11 @@ Manage or cancel in Settings, your Apple Account, Subscriptions, or through Mana
 
 Manage saved data remains available from the subscription screen without paid access. You can export or delete saved scripts, remove your OpenAI key, and clear downloaded AI audio there.
 
-Optional AI costs and availability
+AI costs and availability
 
-The Cue Room subscription does not include OpenAI credits. Connecting your own OpenAI API key and enabling requests authorizes usage against that account. OpenAI's pricing, usage limits, terms, and availability apply separately. Installed Apple voices do not require an OpenAI key or credits. Apple Intelligence script analysis requires a supported device and an available on-device model.
+The Cue Room subscription does not include OpenAI credits. Connecting your own OpenAI API key and enabling requests authorizes usage against that account. OpenAI's pricing, usage limits, terms, and availability apply separately. Installed Apple voices do not require an OpenAI key or credits. Pro ingestion of PDF, image, Word DOCX, and text documents uses OpenAI exclusively and requires a connected API key with available credits.
 
-OCR, transcription, and AI script analysis can misread words, misidentify speakers or roles, or exclude passages. Review the cast, dialogue, directions, and uncertain passages against your source script before rehearsing. OpenAI script analysis uses separate API credits when you tap Analyze; analysis is not included in your subscription. OpenAI rehearsal may prepare an upcoming reader cue before playback. Optional paraphrase checks also use API credits and can miss or misjudge a cue; pause and Next remain available. Generated voices are synthetic. Their delivery may vary, and Cue Room does not promise a particular voice, performance, transcription accuracy, or third-party model indefinitely.
+Document transcription and AI script analysis can misread words, misidentify speakers or roles, or exclude passages. Review the cast, dialogue, directions, and uncertain passages against your source script before rehearsing. OpenAI script analysis uses separate API credits when you tap Continue with OpenAI; API credits are not included in your subscription. The importer saves completed sections and may retry a failed section up to two times automatically; transmitted requests may incur charges even if canceled. OpenAI rehearsal may prepare an upcoming reader cue before playback. Optional paraphrase checks also use API credits and can miss or misjudge a cue; pause and Next remain available. Generated voices are synthetic. Their delivery may vary, and Cue Room does not promise a particular voice, performance, transcription accuracy, or third-party model indefinitely.
 
 Your scripts and recordings
 

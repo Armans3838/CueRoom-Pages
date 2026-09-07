@@ -4,15 +4,15 @@ Contact curtaincallsupport@icloud.com for help with Cue Room. Include your app v
 
 Importing your script
 
-Add a script by scanning pages with the camera, selecting photos, importing PDF, Word DOCX, or text files, or pasting dialogue. Choose OpenAI to analyze the characters, roles, scenes, and dialogue using your API credits, or Apple Intelligence on a supported device for local analysis. Basic import remains available without an LLM. Review the recognized words, speaker names, and excluded passages before saving. If a scan is unclear, use a brighter, sharper image or edit the text directly.
+Choose a PDF, Word DOCX, or text file, scan pages with the camera, or select photos. Pro import uses OpenAI exclusively. Tap Continue with OpenAI to send the selected pages, images, or document text using your saved key and API credits. Review the characters, their roles, dialogue, and excluded passages, then choose your part and save. Completed sections are saved on your device; after an interruption, reopen Add a script and continue. For unclear scans, choose brighter, sharper images.
 
 Rehearsing without OpenAI
 
-Installed Apple voices work without an OpenAI key. Choose your role, then rehearse the scene. Listening is the default: finish your line and pause for the reader to reply. Rehearsal options let you change reply timing. Next is always available if recognition misses a cue. Camera, microphone, and Apple Intelligence features depend on device support and permissions.
+Installed Apple voices work without an OpenAI key. Choose your role, then rehearse the scene. Listening is the default: finish your line and pause for the reader to reply. Rehearsal options let you change reply timing. Next is always available if recognition misses a cue. Camera and microphone features depend on device support and permissions.
 
 OpenAI features
 
-OpenAI is optional. Connect your own API key and enable requests in Apple & OpenAI settings. OpenAI usage is billed separately and is not included in the Cue Room subscription. Reader voices use source context for delivery and prepare one upcoming cue while you speak. Understand paraphrased cues in Rehearsal options is a separate text-sharing choice, using at most two short OpenAI checks per turn. Never send your key to support. You can turn off requests, remove your key, or clear downloaded AI audio in those settings.
+OpenAI is required for Pro document import and optional for rehearsing saved scripts. Connect your own API key and enable requests in Apple & OpenAI settings. OpenAI usage is billed separately and is not included in the Cue Room subscription. Reader voices use source context for delivery and prepare one upcoming cue while you speak. Understand paraphrased cues in Rehearsal options is a separate text-sharing choice, using at most two short OpenAI checks per turn. Never send your key to support. You can turn off requests, remove your key, or clear downloaded AI audio in those settings.
 
 Subscription and billing
 

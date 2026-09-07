@@ -2,7 +2,7 @@ Cue Room
 
 Import a script, choose your role, and rehearse with a scene partner whenever you need one.
 
-Cue Room supports camera scans, selected photos, PDF, Word DOCX, and text import. Review the dialogue, assign voices to the other characters, and practice at your own pace. Installed Apple voices work without an OpenAI key; optional OpenAI script analysis, voices, and transcription use your connected account and separate API credits.
+Cue Room supports camera scans, selected photos, PDF, Word DOCX, and text import. Review the dialogue, assign voices to the other characters, and practice at your own pace. Pro document import requires OpenAI and uses your connected account and separate API credits. Installed Apple voices work for saved scripts without an OpenAI key; OpenAI reader voices and recorded-take transcription are optional.
 
 Cue Room Plus is a monthly subscription. The price shown by the App Store purchase sheet is the price you authorize. OpenAI credits are not included.
 
