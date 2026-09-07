@@ -1,6 +1,6 @@
 Cue Room Terms of Use
 
-Effective September 6, 2026
+Effective September 7, 2026
 
 Cue Room is provided by Arman Siddiqui. These terms explain the rehearsal service and subscription. The app is licensed under Apple's Standard End User License Agreement (https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). These service terms supplement that license and do not replace it or limit rights that cannot legally be excluded.
 
@@ -16,9 +16,9 @@ Manage saved data remains available from the subscription screen without paid ac
 
 Optional AI costs and availability
 
-The Cue Room subscription does not include OpenAI credits. Connecting your own OpenAI API key and enabling requests authorizes usage against that account. OpenAI's pricing, usage limits, terms, and availability apply separately. Installed Apple voices do not require an OpenAI key or credits. Apple Intelligence formatting requires a supported device and an available on-device model.
+The Cue Room subscription does not include OpenAI credits. Connecting your own OpenAI API key and enabling requests authorizes usage against that account. OpenAI's pricing, usage limits, terms, and availability apply separately. Installed Apple voices do not require an OpenAI key or credits. Apple Intelligence script analysis requires a supported device and an available on-device model.
 
-OCR, transcription, and AI formatting can misread, omit, or change words. Review imported text and suggestions against your source script. Generated voices are synthetic. Their delivery may vary, and Cue Room does not promise a particular voice, performance, transcription accuracy, or third-party model indefinitely.
+OCR, transcription, and AI script analysis can misread words, misidentify speakers or roles, or exclude passages. Review the cast, dialogue, directions, and uncertain passages against your source script before rehearsing. OpenAI script analysis uses separate API credits when you tap Analyze; analysis is not included in your subscription. Generated voices are synthetic. Their delivery may vary, and Cue Room does not promise a particular voice, performance, transcription accuracy, or third-party model indefinitely.
 
 Your scripts and recordings
 

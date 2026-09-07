@@ -4,13 +4,13 @@ Contact curtaincallsupport@icloud.com for help with Cue Room. Include your app v
 
 Importing your script
 
-Add a script by scanning pages with the camera, selecting photos, importing PDF, Word DOCX, or text files, or pasting dialogue. Review the recognized words and speaker names before saving. If a scan is unclear, use a brighter, sharper image or edit the text directly.
+Add a script by scanning pages with the camera, selecting photos, importing PDF, Word DOCX, or text files, or pasting dialogue. Choose OpenAI to analyze the characters, roles, scenes, and dialogue using your API credits, or Apple Intelligence on a supported device for local analysis. Basic import remains available without an LLM. Review the recognized words, speaker names, and excluded passages before saving. If a scan is unclear, use a brighter, sharper image or edit the text directly.
 
 Rehearsing without OpenAI
 
 Installed Apple voices work without an OpenAI key. Choose your role, then rehearse the scene. Use Next if you prefer to advance manually. Camera, microphone, and Apple Intelligence features depend on device support and permissions.
 
-OpenAI voices and transcription
+OpenAI voices transcription and script analysis
 
 OpenAI is optional. Connect your own API key and enable requests in Apple & OpenAI settings. OpenAI usage is billed separately and is not included in the Cue Room subscription. Never send your key to support. You can turn off requests, remove your key, or clear downloaded AI audio in those settings.
 
