@@ -2,6 +2,8 @@ Cue Room Privacy Policy
 
 The main sections below describe version 1.2: Apple sign-in, on-device script processing, and Pro-managed cloud AI. If you use version 1.1 (including build 53), its earlier personal OpenAI-key flow is described under If you use version 1.1 at the end of this page. The original PDF/photo upload and separate API billing disclosures still apply to version 1.1. Updating does not automatically convert an existing Plus subscription to Pro.
 
+Effective October 16, 2026
+
 Device processing
 
 Scripts, recordings, import drafts, and rehearsal progress are stored on your device. PDFs and selected photos are decoded with native PDF text extraction or Vision OCR before analysis. Gemma is the primary on-device model on compatible devices after its one-time download. The model download starts automatically over Wi-Fi on first launch; verified existing downloads become active automatically. Built-in tools remain usable without it. Apple's on-device Foundation Models language model is the local fallback when Apple Intelligence is enabled and ready. Gemma runs while Cue Room is open. Local analysis and Apple voices do not send scripts to the developer or OpenAI. Microphone recognition requires on-device support and never silently switches to cloud recognition.
@@ -23,6 +25,8 @@ Sign in with Apple is required before entering Cue Room, including the sample re
 The backend stores hashed session credentials, account status, and bounded usage counters to enforce request, concurrency, and daily and dollar allowances across apps. The current allowance is up to $5 USD of provider processing per Cue Room account per UTC calendar month, subject to the shared service budget and availability. These are service usage limits, not additional charges to your Apple Account. Script and audio request bodies are processed for the request and are not saved to the backend database or application logs. Render and Neon, our hosting and database providers, process the account and operational data needed to run this service.
 
 Controls and deletion
+
+In AI settings, Withdraw Pro AI permission stops new cloud requests and cancels queued voice preparation. Already-sent requests may finish. Withdrawal preserves your signed-in account, subscription, local tools, and saved audio; it does not delete content already held by a provider. The choice remains in effect for this account until you explicitly complete Activate Pro AI again.
 
 You can sign out, clear downloaded audio, or delete your Cue Room account from AI settings, including without an active subscription. Deletion revokes Apple authorization and removes active session/account access. Opaque identity, transaction binding, and quota tombstones may be retained for abuse prevention and to prevent deletion from resetting usage allowances. These limited records remain after account deletion; contact support with requests about them. Deleting the Cue Room account does not delete local scripts, exported copies, or OpenAI's provider records, and does not cancel an App Store subscription. Use App Store account settings to cancel it.
 

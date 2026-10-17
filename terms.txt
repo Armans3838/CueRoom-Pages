@@ -2,7 +2,7 @@ Cue Room Terms of Use
 
 The main sections below describe version 1.2: Apple sign-in, on-device script processing, and Pro-managed cloud AI. If you use version 1.1 (including build 53), its earlier personal OpenAI-key flow is described under If you use version 1.1 at the end of this page. The original PDF/photo upload and separate API billing disclosures still apply to version 1.1. Updating does not automatically convert an existing Plus subscription to Pro.
 
-Effective October 4, 2026
+Effective October 16, 2026
 
 Cue Room is provided by Arman Siddiqui. These terms explain the rehearsal service and subscription. The app is licensed under Apple's Standard End User License Agreement (https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). These service terms supplement that license and do not replace it or limit rights that cannot legally be excluded.
 
@@ -19,6 +19,8 @@ Manage saved data remains available from the welcome and subscription screens wi
 Pro cloud and on-device AI
 
 On supported devices, native text recognition and local AI process imported scripts without OpenAI. Gemma is the primary local model after download; Apple Intelligence is the fallback when available. Pro cloud AI requires Apple sign-in, a server-verified active Pro subscription, and the one-time third-party AI permission presented during Pro activation. Your subscription controls access after activation; no separate cloud-processing switch is offered. Previous declined permission is preserved until you activate Pro AI. The implemented Free tier is hidden at launch and has no synthetic voices, including Apple voices. Existing paid Plus is a separate legacy entitlement. The backend supplies provider credentials; users do not supply or receive an OpenAI key. Cloud features are subject to per-account request, concurrency, and usage allowances and provider availability. The current cloud allowance is up to $5 USD in provider processing per account per UTC calendar month; the service also has a shared spending limit. Cloud features may pause when either limit is reached or the service is unavailable. This allowance is not a cash credit or an additional bill, and unused allowance does not carry forward. Pro and existing Plus subscribers retain on-device processing when cloud processing is unavailable. Device models require compatible hardware, software, language, and downloaded model availability.
+
+You can use Withdraw Pro AI permission in AI settings to stop new cloud requests and cancel queued voice preparation without signing out or losing local tools, your subscription, or saved audio. Already-sent requests may finish. Cloud sharing remains declined for that account until you explicitly complete Activate Pro AI again. Withdrawing permission does not cancel subscription billing or delete provider-held records.
 
 Cue Room starts the one-time Gemma download automatically on compatible devices. It uses Wi-Fi, about 2.6 GB of storage, and additional free space while being installed. You can use built-in tools immediately without waiting for the model. iOS can continue the transfer in the background and controls its scheduling; force-quitting the app may interrupt it until Cue Room reopens. Gemma becomes active automatically after verification. You can pause or resume from the library and manage or remove the model in AI settings without deleting scripts. Keep Cue Room open during Gemma analysis. Downloading this model does not grant cloud-processing permission. Model and runtime licenses remain available in AI settings.
 
