@@ -2,12 +2,14 @@ Cue Room
 
 Import a script, choose your role, and rehearse with a scene partner whenever you need one.
 
-Cue Room supports camera scans, selected photos, PDF, Word DOCX, and text import. Review the dialogue, assign voices to the other characters, and practice at your own pace. Pro document import requires OpenAI and uses your connected account and separate API credits. Installed Apple voices work for saved scripts without an OpenAI key; OpenAI reader voices and recorded-take transcription are optional.
+This page describes version 1.2. If you use version 1.1 (including build 53), Cue Room Plus uses the earlier personal OpenAI-key flow: document import sends selected PDF pages, photos, or document text directly to OpenAI, with separate API charges. See Support (support.html), Privacy (privacy.html), and Terms (terms.html) for version 1.1 details. Existing Plus does not automatically become Pro when you update.
 
-Cue Room Plus is a monthly subscription. The price shown by the App Store purchase sheet is the price you authorize. OpenAI credits are not included.
+Cue Room supports camera scans, selected photos, PDF, Word DOCX, and text import. Native text extraction and OCR read pages locally. Gemma becomes the primary on-device model after its automatic Wi-Fi download on compatible devices, with Apple Intelligence as the local fallback when available. Built-in tools remain usable while Gemma downloads. Review the dialogue and speakers against the original, choose your part, and rehearse with installed Apple voices or cast recordings.
+
+Sign in with Apple to begin and try the short sample rehearsal. Cue Room Pro is a monthly auto-renewable subscription that includes the library, import, recording, rehearsal tools, and Pro cloud AI within the account allowance. After the one-time Pro AI sharing permission, reviewed imports can queue contextual voice casting and locally cached speech. Cloud analysis sends recognized text rather than original PDFs or photos. No personal API key is required. The current cloud allowance is up to $5 USD in provider processing per account per UTC calendar month, subject to the shared service budget and availability. Apple's purchase sheet shows the localized subscription price. Existing paid Plus subscriptions remain restorable for their on-device tools.
+
+Saved scripts, recordings, drafts, and progress stay on your device. Once signed in with a locally verified paid subscription, supported local tools remain available during a temporary service outage. Camera, speech recognition, and local AI depend on compatible hardware, software, model availability, and permissions.
 
 Help and legal information
 
 Visit Support (support.html), read the Privacy Policy (privacy.html), or review the Terms of Use (terms.html).
-
-Legal documents: PDF (CueRoomLegalPack.pdf) or Word (CueRoomLegalPack.docx).
