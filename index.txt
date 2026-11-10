@@ -1,14 +1,10 @@
 Cue Room
 
-Import a script, choose your role, and rehearse with a scene partner whenever you need one.
+Import a script, choose your part, and rehearse with a scene partner whenever you need one.
 
-This page describes version 1.2. If you use version 1.1 (including build 53), Cue Room Plus uses the earlier personal OpenAI-key flow: document import sends selected PDF pages, photos, or document text directly to OpenAI, with separate API charges. See Support (support.html), Privacy (privacy.html), and Terms (terms.html) for version 1.1 details. Existing Plus does not automatically become Pro when you update.
+Bring in a PDF, Word or text file, a Final Draft or Fountain screenplay, scanned pages, photos or pasted text. Cue Room reads it on your iPhone, finds the characters and lines, and marks your part. Apple voices read every other part and wait for you to say your line, or tap Next. Hide your lines to get off book, record takes, and share a script with castmates.
 
-Cue Room supports camera scans, selected photos, PDF, Word DOCX, and text import. Native text extraction and OCR read pages locally. Gemma becomes the primary on-device model after its automatic Wi-Fi download on compatible devices, with Apple Intelligence as the local fallback when available. Built-in tools remain usable while Gemma downloads. Review the dialogue and speakers against the original, choose your part, and rehearse with installed Apple voices or cast recordings.
-
-Sign in with Apple to begin and try the short sample rehearsal. Cue Room Pro is a monthly auto-renewable subscription that includes the library, import, recording, rehearsal tools, and Pro cloud AI within the account allowance. After the one-time Pro AI sharing permission, reviewed imports can queue contextual voice casting and locally cached speech. Cloud analysis sends recognized text rather than original PDFs or photos. No personal API key is required. The current cloud allowance is up to $5 USD in provider processing per account per UTC calendar month, subject to the shared service budget and availability. Apple's purchase sheet shows the localized subscription price. Existing paid Plus subscriptions remain restorable for their on-device tools.
-
-Saved scripts, recordings, drafts, and progress stay on your device. Once signed in with a locally verified paid subscription, supported local tools remain available during a temporary service outage. Camera, speech recognition, and local AI depend on compatible hardware, software, model availability, and permissions.
+Cue Room is free to try with one script and no account. Cue Room Pro, a monthly subscription, adds unlimited scripts and lifelike AI reader voices. Cue Room 2.0 requires iOS 26 or later.
 
 Help and legal information
 
