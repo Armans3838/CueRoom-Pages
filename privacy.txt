@@ -12,17 +12,17 @@ Importing a script happens on your device: Cue Room reads a PDF's text, recogniz
 
 Apple voices speak on your device. During rehearsal, Cue Room listens for your lines with Apple's speech recognition. It recognizes speech on your device when your iPhone supports that for your language; otherwise Apple processes the audio under Apple's privacy policy (https://www.apple.com/legal/privacy/). Microphone audio is only used while it's your turn and is never sent to Cue Room or Google. Recorded takes stay on your device unless you share a script.
 
-AI voices (Pro)
+AI voices
 
-When you turn on AI voices, the words of the lines being voiced and the chosen voice are sent to Cue Room's service, which asks Google Cloud Text-to-Speech to generate the audio. The generated audio is saved on your device and reused. Your recordings, microphone audio, the rest of your library and the original files you imported are not sent. Script text is processed only to produce the audio and is not stored in the service's database or logs. Google processes requests under the Google Cloud data processing terms (https://cloud.google.com/terms/data-processing-addendum).
+AI voices are Cue Room's default reader voices. Without Cue Room Pro they include a one-time free preview; Pro includes them for every line. When you turn on AI voices, the words of the lines being voiced and the chosen voice are sent to Cue Room's service, which asks Google Cloud Text-to-Speech to generate the audio. The generated audio is saved on your device and reused. Your recordings, microphone audio, the rest of your library and the original files you imported are not sent. Script text is processed only to produce the audio and is not stored in the service's database or logs. Google processes requests under the Google Cloud data processing terms (https://cloud.google.com/terms/data-processing-addendum).
 
 Account and subscription
 
-Signing in with Apple is optional and only needed for Pro. Cue Room does not request your name or email. The service verifies your Apple sign-in and stores an account identifier, session credentials (as hashes), your App Store subscription status for Pro verification, and usage counters that enforce fair-use limits. Payment details are handled by Apple. Our hosting and database providers process this account data to run the service.
+Signing in with Apple is optional and only needed for AI voices. Cue Room does not request your name or email. The service verifies your Apple sign-in and stores an account identifier, session credentials (as hashes), your App Store subscription status for Pro verification, and usage counters that enforce fair-use limits, including a one-way hash of your Apple sign-in identifier that records how much of the free preview has been used. Payment details are handled by Apple. Our hosting and database providers process this account data to run the service.
 
 Your choices
 
-You can turn off AI voices at any time in Settings, clear saved AI audio, sign out, or delete your Cue Room account. Deleting your account removes it from the service and revokes the Apple sign-in; limited records may be kept to prevent abuse of usage limits. It does not delete scripts on your device or cancel an App Store subscription.
+You can turn off AI voices at any time in Settings, clear saved AI audio, sign out, or delete your Cue Room account. Deleting your account removes it from the service and revokes the Apple sign-in; limited records, such as the free preview record, may be kept to prevent abuse of usage limits. It does not delete scripts on your device or cancel an App Store subscription.
 
 Camera, photos and microphone access are always your choice and can be changed in the Settings app. Sharing a script sends it, with its recorded takes, only to the people you choose.
 

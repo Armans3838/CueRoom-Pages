@@ -2,9 +2,9 @@ Cue Room
 
 Import a script, choose your part, and rehearse with a scene partner whenever you need one.
 
-Bring in a PDF, Word or text file, a Final Draft or Fountain screenplay, scanned pages, photos or pasted text. Cue Room reads it on your iPhone, finds the characters and lines, and marks your part. Apple voices read every other part and wait for you to say your line, or tap Next. Hide your lines to get off book, record takes, and share a script with castmates.
+Bring in a PDF, Word or text file, a Final Draft or Fountain screenplay, scanned pages, photos or pasted text. Cue Room reads it on your iPhone, finds the characters and lines, and marks your part. Lifelike AI voices read every other part and wait for you to say your line, or tap Next. Hide your lines to get off book, record takes, and share a script with castmates.
 
-Cue Room is free to try with one script and no account. Cue Room Pro, a monthly subscription, adds unlimited scripts and lifelike AI reader voices. Cue Room 2.0 requires iOS 26 or later.
+Cue Room is free to try with one script, no account, and a one-time AI voice preview. Cue Room Pro, a monthly subscription, adds unlimited scripts and AI voices for every line. Cue Room 2.0 requires iOS 26 or later.
 
 Help and legal information
 
