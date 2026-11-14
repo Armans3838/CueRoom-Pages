@@ -7,7 +7,6 @@ GitHub Pages URLs:
 - Privacy: `https://armans3838.github.io/CueRoom-Pages/privacy.html`
 - Terms: `https://armans3838.github.io/CueRoom-Pages/terms.html`
 - Support: `https://armans3838.github.io/CueRoom-Pages/support.html`
-- Beta: `https://armans3838.github.io/CueRoom-Pages/beta.html`
 
 Contact alias currently used by the site:
 
