@@ -2,7 +2,7 @@ Cue Room Privacy Policy
 
 This page describes Cue Room 2.0 and later. If you use an earlier version, also see If you use an earlier version at the end of this page.
 
-Effective November 10, 2026
+Effective November 14, 2026
 
 On your device
 
@@ -14,11 +14,11 @@ Apple voices speak on your device. During rehearsal, Cue Room listens for your l
 
 AI voices
 
-AI voices are Cue Room's default reader voices. Without Cue Room Pro they include a one-time free preview; Pro includes them for every line. When you turn on AI voices, the words of the lines being voiced and the chosen voice are sent to Cue Room's service, which asks Google Cloud Text-to-Speech to generate the audio. The generated audio is saved on your device and reused. Your recordings, microphone audio, the rest of your library and the original files you imported are not sent. Script text is processed only to produce the audio and is not stored in the service's database or logs. Google processes requests under the Google Cloud data processing terms (https://cloud.google.com/terms/data-processing-addendum).
+AI voices are Cue Room's default reader voices. Without Cue Room Pro they include a one-time free preview; Pro includes them for every line. With Cue Room Pro, AI voices turn on when you sign in with Apple; the free preview asks you to allow them first. You can turn them off at any time in Settings > AI Voices. While AI voices are on, the words of the lines being voiced and the chosen voice are sent to Cue Room's service, which asks Google Cloud Text-to-Speech to generate the audio. The generated audio is saved on your device and reused. Your recordings, microphone audio, the rest of your library and the original files you imported are not sent. Script text is processed only to produce the audio and is not stored in the service's database or logs. Google processes requests under the Google Cloud data processing terms (https://cloud.google.com/terms/data-processing-addendum).
 
 Account and subscription
 
-Signing in with Apple is optional and only needed for AI voices. Cue Room does not request your name or email. The service verifies your Apple sign-in and stores an account identifier, session credentials (as hashes), your App Store subscription status for Pro verification, and usage counters that enforce fair-use limits, including a one-way hash of your Apple sign-in identifier that records how much of the free preview has been used. Payment details are handled by Apple. Our hosting and database providers process this account data to run the service.
+Signing in with Apple is optional and only needed for AI voices. Cue Room does not request your name or email. The service verifies your Apple sign-in and stores an account identifier linked to the user identifier Apple provides for your sign-in, session credentials (as hashes), an encrypted Apple token used only to revoke the sign-in if you delete your account, your App Store subscription status for Pro verification, and usage counters that enforce fair-use limits, including a one-way hash of your Apple sign-in identifier that records how much of the free preview has been used. Payment details are handled by Apple. Our hosting and database providers process this account data to run the service.
 
 Your choices
 
