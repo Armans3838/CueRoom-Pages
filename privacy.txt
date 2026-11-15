@@ -1,28 +1,30 @@
-Cue Room Privacy Policy
+What's My Cue? Privacy Policy
 
-This page describes Cue Room 2.0 and later. If you use an earlier version, also see If you use an earlier version at the end of this page.
+This page describes version 2.0 and later of the app. If you use an earlier version, also see If you use an earlier version at the end of this page.
 
-Effective November 14, 2026
+Effective November 15, 2026
+
+What's My Cue? (formerly Cue Room, "the app") is provided by Arman Siddiqui ("we" or "us"). This policy explains how the app handles your information.
 
 On your device
 
-Your scripts, recordings, rehearsal progress and settings are stored on your iPhone. You can use Cue Room without an account.
+Your scripts, recordings, rehearsal progress and settings are stored on your iPhone. You can use the app without an account.
 
-Importing a script happens on your device: Cue Room reads a PDF's text, recognizes text in scans and photos with Apple's Vision framework, and may use Apple Intelligence on your device to check a few unclear passages. Imported files are not uploaded.
+Importing a script happens on your device: the app reads a PDF's text, recognizes text in scans and photos with Apple's Vision framework, and may use Apple Intelligence on your device to check a few unclear passages. Imported files are not uploaded.
 
-Apple voices speak on your device. During rehearsal, Cue Room listens for your lines with Apple's speech recognition. It recognizes speech on your device when your iPhone supports that for your language; otherwise Apple processes the audio under Apple's privacy policy (https://www.apple.com/legal/privacy/). Microphone audio is only used while it's your turn and is never sent to Cue Room or Google. Recorded takes stay on your device unless you share a script.
+Apple voices speak on your device. During rehearsal, the app listens for your lines with Apple's speech recognition. It recognizes speech on your device when your iPhone supports that for your language; otherwise Apple processes the audio under Apple's privacy policy (https://www.apple.com/legal/privacy/). Microphone audio is only used while it's your turn and is never sent to us or Google. Recorded takes stay on your device unless you share a script.
 
 AI voices
 
-AI voices are Cue Room's default reader voices. Without Cue Room Pro they include a one-time free preview; Pro includes them for every line. With Cue Room Pro, AI voices turn on when you sign in with Apple; the free preview asks you to allow them first. You can turn them off at any time in Settings > AI Voices. While AI voices are on, the words of the lines being voiced and the chosen voice are sent to Cue Room's service, which asks Google Cloud Text-to-Speech to generate the audio. The generated audio is saved on your device and reused. Your recordings, microphone audio, the rest of your library and the original files you imported are not sent. Script text is processed only to produce the audio and is not stored in the service's database or logs. Google processes requests under the Google Cloud data processing terms (https://cloud.google.com/terms/data-processing-addendum).
+AI voices are the app's default reader voices. Without a Pro subscription they include a one-time free preview; Pro includes them for every line. With Pro, AI voices turn on when you sign in with Apple; the free preview asks you to allow them first. You can turn them off at any time in Settings > AI Voices. While AI voices are on, the words of the lines being voiced and the chosen voice are sent to the app's service, which asks Google Cloud Text-to-Speech to generate the audio. The generated audio is saved on your device and reused. Your recordings, microphone audio, the rest of your library and the original files you imported are not sent. Script text is processed only to produce the audio and is not stored in the service's database or logs. Google processes requests under the Google Cloud data processing terms (https://cloud.google.com/terms/data-processing-addendum).
 
 Account and subscription
 
-Signing in with Apple is optional and only needed for AI voices. Cue Room does not request your name or email. The service verifies your Apple sign-in and stores an account identifier linked to the user identifier Apple provides for your sign-in, session credentials (as hashes), an encrypted Apple token used only to revoke the sign-in if you delete your account, your App Store subscription status for Pro verification, and usage counters that enforce fair-use limits, including a one-way hash of your Apple sign-in identifier that records how much of the free preview has been used. Payment details are handled by Apple. Our hosting and database providers process this account data to run the service.
+Signing in with Apple is optional and only needed for AI voices. The app does not request your name or email. The service verifies your Apple sign-in and stores an account identifier linked to the user identifier Apple provides for your sign-in, session credentials (as hashes), an encrypted Apple token used only to revoke the sign-in if you delete your account, your App Store subscription status for Pro verification, and usage counters that enforce fair-use limits, including a one-way hash of your Apple sign-in identifier that records how much of the free preview has been used. Payment details are handled by Apple. Our hosting and database providers process this account data to run the service.
 
 Your choices
 
-You can turn off AI voices at any time in Settings, clear saved AI audio, sign out, or delete your Cue Room account. Deleting your account removes it from the service and revokes the Apple sign-in; limited records, such as the free preview record, may be kept to prevent abuse of usage limits. It does not delete scripts on your device or cancel an App Store subscription.
+You can turn off AI voices at any time in Settings, clear saved AI audio, sign out, or delete your account. Deleting your account removes it from the service and revokes the Apple sign-in; limited records, such as the free preview record, may be kept to prevent abuse of usage limits. It does not delete scripts on your device or cancel an App Store subscription.
 
 Camera, photos and microphone access are always your choice and can be changed in the Settings app. Sharing a script sends it, with its recorded takes, only to the people you choose.
 
@@ -32,8 +34,8 @@ Contact curtaincallsupport@icloud.com with any privacy questions or requests.
 
 If you use an earlier version
 
-Version 1.2 required Sign in with Apple and offered Pro cloud AI through OpenAI. Those cloud AI features have been retired: Cue Room's service no longer accepts script text, recordings or audio from version 1.2 and no longer sends anything to OpenAI. Version 1.2 still uses the service for Apple sign-in and Pro verification, with the account data described above. Its optional on-device Gemma model downloads from Hugging Face, which receives connection information such as your IP address, and runs on your device. Requests that earlier versions already sent were handled by OpenAI under its API data controls (https://developers.openai.com/api/docs/guides/your-data); Cue Room cannot delete records held by a provider.
+Version 1.2 required Sign in with Apple and offered Pro cloud AI through OpenAI. Those cloud AI features have been retired: the app's service no longer accepts script text, recordings or audio from version 1.2 and no longer sends anything to OpenAI. Version 1.2 still uses the service for Apple sign-in and Pro verification, with the account data described above. Its optional on-device Gemma model downloads from Hugging Face, which receives connection information such as your IP address, and runs on your device. Requests that earlier versions already sent were handled by OpenAI under its API data controls (https://developers.openai.com/api/docs/guides/your-data); we cannot delete records held by a provider.
 
-Version 1.1 has no Cue Room account. If you added your own OpenAI API key, its import, voices, take transcription and cue checks send the selected pages, photos, document text, line text or recording directly to OpenAI under your own account. Remove the key in Apple & OpenAI settings to stop this.
+Version 1.1 has no account with the app's service. If you added your own OpenAI API key, its import, voices, take transcription and cue checks send the selected pages, photos, document text, line text or recording directly to OpenAI under your own account. Remove the key in Apple & OpenAI settings to stop this.
 
 Updating to the current version keeps your scripts and recordings.
