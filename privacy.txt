@@ -12,7 +12,7 @@ Your scripts, recordings, rehearsal progress and settings are stored on your iPh
 
 Importing a script happens on your device: the app reads a PDF's text, recognizes text in scans and photos with Apple's Vision framework, and may use Apple Intelligence on your device to check a few unclear passages. Imported files are not uploaded.
 
-Apple voices speak on your device. During rehearsal, the app listens for your lines with Apple's speech recognition. It recognizes speech on your device when your iPhone supports that for your language; otherwise Apple processes the audio under Apple's privacy policy (https://www.apple.com/legal/privacy/). Microphone audio is only used while it's your turn and is never sent to us or Google. Recorded takes stay on your device unless you share a script.
+Apple voices speak on your device. During rehearsal, the app listens for your lines with Apple's speech recognition. It recognizes speech on your device when your iPhone supports that for your language; otherwise Apple processes the audio under Apple's privacy policy (https://www.apple.com/legal/privacy/). Microphone audio is only used while it's your turn and is never sent to us or Google. Recorded takes stay on your device unless you share a script. The name you give your cast is kept on your iPhone and leaves it only inside a script you share.
 
 AI voices
 
@@ -26,7 +26,7 @@ Your choices
 
 You can turn off AI voices at any time in Settings, clear saved AI audio, sign out, or delete your account. Deleting your account removes it from the service and revokes the Apple sign-in; limited records, such as the free preview record, may be kept to prevent abuse of usage limits. It does not delete scripts on your device or cancel an App Store subscription.
 
-Camera, photos and microphone access are always your choice and can be changed in the Settings app. Sharing a script sends it, with its recorded takes, only to the people you choose.
+Camera, photos and microphone access are always your choice and can be changed in the Settings app. Sharing a script is something you do yourself, with AirDrop, Messages or Files; nothing is uploaded to us. The file holds the script's words, your name for the cast and recorded takes: yours and, unless you choose Only My Takes, the takes castmates have shared with you. It never holds AI-generated audio. Takes you share are stored on the iPhones of the people you send them to, and those people can pass them on to other castmates when they share the script in turn. Anyone who receives takes can remove them in Cast Recordings.
 
 Contact
 

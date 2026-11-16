@@ -8,7 +8,7 @@ What's My Cue? (formerly Cue Room) ("the app") is provided by Arman Siddiqui. Th
 
 Free and Pro
 
-The app is free to download and use without an account. The free version includes one script of your own at a time (plus the sample scene) with every rehearsal feature: script import and editing, hands-free listening, recorded takes, sharing, Apple voices and a one-time AI voice preview. After you add a free script, the next one can be added a month later, even if you delete the first.
+The app is free to download and use without an account. The free version includes one script of your own at a time (plus the sample scene) with every rehearsal feature: script import and editing, hands-free listening, recorded takes, cast recordings, sharing, Apple voices and a one-time AI voice preview. After you add a free script, the next one can be added a month later, even if you delete the first. A script a castmate shares with you counts as adding a script; adding a castmate's takes to a script you already have does not.
 
 What's My Cue? Pro ("Pro") is a monthly auto-renewing subscription that adds unlimited scripts and AI voices for every line. Existing What's My Cue? Plus ("Plus") subscriptions remain restorable and include unlimited scripts. Signing in isn't required to subscribe; signing in with Apple links Pro to your Apple ID so AI voices can be verified across your devices.
 
@@ -27,6 +27,8 @@ Your scripts and recordings
 You retain your rights in content you import or create. Importing a script does not grant rights to publish or distribute it. Use material and recordings you have permission to process, rehearse, record and share, and obtain performers' permission before recording or sharing them. Do not use the app to violate another person's rights or break applicable law.
 
 The app stores your work on your device. Share a copy from a script's menu if you want a backup or to move devices. You are responsible for the recipients you choose.
+
+A shared script includes your recorded takes and, unless you choose Only My Takes, the takes your castmates have shared with you. By sharing your takes with your cast you allow them to keep those takes on their devices and to pass them on within the cast. Pass on a castmate's takes only to people in that cast. A shared script never includes AI-generated audio.
 
 Support and changes
 

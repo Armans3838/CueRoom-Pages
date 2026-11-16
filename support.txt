@@ -16,9 +16,13 @@ Rehearsing
 
 Open a script and tap Rehearse. AI voices read the other parts once you turn them on; until then, and whenever AI voices can't, Apple voices read. When it's your line, say it and pause, or tap Next; the app listens with Apple's speech recognition, on your device when supported. The options menu lets you hide your lines, change reply timing and more. The app remembers where you stopped. You can record your own takes of any line and share a script, with its recordings, with castmates.
 
+Cast recordings
+
+Rehearse with your castmates' real voices. One person sends the script from its options menu (Share Script) so everyone's lines match, and castmates open the file with the app. Each of you chooses Record My Part to record your own lines, then shares the script again. When you open a castmate's file, tap Add Takes: their voice then reads their character, and a voice reads any line nobody has recorded yet. If you each imported the script yourselves, the app offers Match Takes to My Copy and lines up the takes whose words are the same in both copies. Cast Recordings in the options menu shows who recorded what, lets you go back to a voice for a character, and lets you remove a castmate's takes. Cast recordings are free and need no account. Nothing is uploaded: files go from phone to phone with AirDrop, Messages or Files. A shared script includes your takes and, unless you choose Only My Takes, the takes castmates have sent you; it never includes AI voice audio.
+
 Free and Pro
 
-The free version includes one script of your own at a time (the sample doesn't count) with every rehearsal feature and a one-time AI voice preview. After you add a free script, the next one can be added a month later, even if you delete the first; the Pro offer shows the date. Pro, a monthly auto-renewable subscription, adds unlimited scripts and AI voices for every line. You don't need to sign in to subscribe. Existing Plus subscriptions remain restorable for unlimited scripts. Restore Purchases is in Settings and on the Pro offer.
+The free version includes one script of your own at a time (the sample doesn't count) with every rehearsal feature and a one-time AI voice preview. After you add a free script, the next one can be added a month later, even if you delete the first; the Pro offer shows the date. A script a castmate shares with you counts as adding a script; adding their takes to a script you already have never does. Pro, a monthly auto-renewable subscription, adds unlimited scripts and AI voices for every line. You don't need to sign in to subscribe. Existing Plus subscriptions remain restorable for unlimited scripts. Restore Purchases is in Settings and on the Pro offer.
 
 AI voices
 
